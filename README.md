@@ -21,3 +21,6 @@ Building An AI (T.O.N.I) to help the world. Exploring new ways to upgrade the ev
 Feel free to reach out if you need help with saving the world or coding advice. Remember, with great power comes great responsibility.
 
 # I am Ben Blance 🚀
+
+![2](https://github.com/ben-blance/ben-blance/assets/147723363/2ed80888-12e5-454c-a9fc-d803fbd48900)
+
