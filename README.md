@@ -1,6 +1,6 @@
 # Hey, I'm Ben Blance 👋
 
-
+![Ben Blance](https://github.com/ben-blance/ben-blance/assets/147723363/a034da07-cb28-4297-9845-6aafeaff16ad)
 
 Professional Dumbass. Oh, and I code too.
 
@@ -18,8 +18,6 @@ Professional Dumbass. Oh, and I code too.
 
 Building An AI (T.O.N.I) to help the world. Exploring new ways to upgrade the everyday life for even more awesomeness.
 
-
-
 Feel free to reach out if you need help with saving the world or coding advice. Remember, with great power comes great responsibility.
 
-# I am Ben-blance 🚀
+# I am Ben Blance 🚀
