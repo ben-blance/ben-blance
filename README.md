@@ -6,13 +6,14 @@ Professional Dumbass. Oh, and I code too.
 
 ## 💻 Technologies & Projects
 
-- **Programming Languages:** Nakama-script, C++, Python, C, FLutter (Dart), x8086, html css js (Basic)
+- **Programming Languages:** Nakama-script, C++, Python, C, FLutter (Dart), x8086, html css js
 - **Frameworks & Libraries:** react
 
 ## 🔧 Projects
 
 - **Nakama-Script:** [Repo Link](https://github.com/ben-blance/nakama-script)
 - **Cipher-Guard:** [Repo Link](https://github.com/ben-blance/cipher_guard)
+- **TONI:** [Repo Link](https://github.com/ben-blance/TONI)
 
 ## 🚀 Current Focus
 
