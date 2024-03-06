@@ -1,4 +1,4 @@
-# Hey, I'm Ben Blance 👋
+# Hey, I'm **Ben-Blance** [Portfolio Link](https://github.com/ben-blance/nakama-script) 👋
 
 ![Ben Blance](https://github.com/ben-blance/ben-blance/assets/147723363/a034da07-cb28-4297-9845-6aafeaff16ad)
 
