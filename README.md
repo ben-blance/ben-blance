@@ -6,7 +6,7 @@ Professional Dumbass. Oh, and I code too.
 
 ## 💻 Technologies & Projects
 
-- **Programming Languages:** Nakama-script, C++, Python, C, FLutter (Dart), x8086, html css js
+- **Programming Languages:** Nakama-script, C++, Python, C, Flutter (Dart), ZIG, x8086, HTML, CSS, JavaScript
 - **Frameworks & Libraries:** react
 
 ## 🔧 Projects
@@ -14,10 +14,11 @@ Professional Dumbass. Oh, and I code too.
 - **Nakama-Script:** [Repo Link](https://github.com/ben-blance/nakama-script)
 - **Cipher-Guard:** [Repo Link](https://github.com/ben-blance/cipher_guard)
 - **TONI:** [Repo Link](https://github.com/ben-blance/TONI)
+- **RLE COMPRESSION IN ZIG:** [Repo Link](https://github.com/ben-blance/basic-rle-in-zig)
 
 ## 🚀 Current Focus
 
-Building An AI (T.O.N.I) to help the world. Exploring new ways to upgrade the everyday life for even more awesomeness.
+Building AI (T.O.N.I) to help the world and exploring new ways to enhance everyday life. Recently learning ZIG and developing innovative projects.
 
 Feel free to reach out if you need help with saving the world or coding advice. Remember, with great power comes great responsibility.
 
