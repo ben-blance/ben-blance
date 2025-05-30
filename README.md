@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm <strong>Ben‑Blance</strong> 🚀</h1>
+<h1 align="left">Hey there, I'm <strong>Ben‑Blance</strong> ❄️</h1>
 <p align="left">Professional Dumbass. Oh, and I code too.</p>
 
 
