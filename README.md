@@ -26,7 +26,7 @@
 </ul>
 
 <h2 align="left">🚀 Current Focus</h2>
-<p align="left">Now focused on <strong>SATISH Image Format</strong> – a modular Python project with <code>satish/core</code>, <code>satish/utils</code>, <code>satish/cli</code>, <code>tests</code>, and <code>docs</code>.</p>
+<p align="left"><li>🔹 <strong>omni</strong> — <a href="https://github.com/ben-blance/omni">Repo</a></li></p>
 
 <h2 align="left">📫 Connect With Me</h2>
 <p align="left">
